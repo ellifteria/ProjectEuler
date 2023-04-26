@@ -15,5 +15,8 @@ listprod list
     | (tail list) == [] = head list
     | otherwise         = (head list) * (listprod (tail list))
 
+smallestmult :: Int -> Int
+smallestmult n = listprod (needed n)
+
 main = do
-    print(listprod (needed 20))
+    print(smallestmult 20)
