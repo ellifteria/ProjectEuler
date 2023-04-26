@@ -1,3 +1,4 @@
+efibsum :: Int -> Int -> Int -> Int
 efibsum n nprev max
     | n > max       = 0
     | mod n 2 /= 0  = efibsum (n + nprev) n max

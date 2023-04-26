@@ -1,3 +1,4 @@
+sumbyto :: Int -> Int -> Int -> Int
 sumbyto start by to
     | start > to    = 0
     | otherwise = start + sumbyto (start + by) by to

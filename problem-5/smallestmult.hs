@@ -1,3 +1,4 @@
+reduceby :: Int -> Int -> Int
 reduceby n by
     | by == 1           = n
     | by == 0           = 1
@@ -9,6 +10,7 @@ needed n
     | n == 1    = [1]
     | otherwise = (reduceby n (n - 1)):(needed (n - 1))
 
+listprod :: [Int] -> Int
 listprod list
     | (tail list) == [] = head list
     | otherwise         = (head list) * (listprod (tail list))
