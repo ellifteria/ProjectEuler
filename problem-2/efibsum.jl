@@ -10,5 +10,7 @@ function efibsum(n, nprev, max)
 	return n + efibsum(n + nprev, n, max)
 end
 
-println(efibsum(1, 1, 4000000))
+max = parse(Int, ARGS[1])
+
+println(efibsum(1, 1, max))
 

@@ -6,5 +6,9 @@ function sumbyto(start, by, to)
 	return start + sumbyto(start + by, by, to)
 end
 
-println(sumbyto(0, 3, 999) + sumbyto(0, 5, 999) - sumbyto(0, 15, 999))
+mult_a = parse(Int, ARGS[1])
+mult_b = parse(Int, ARGS[2])
+max = parse(Int, ARGS[3])
+
+println(sumbyto(0, mult_a, max) + sumbyto(0, mult_b, max) - sumbyto(0, 15, max))
 
