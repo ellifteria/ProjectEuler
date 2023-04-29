@@ -27,3 +27,13 @@ started: 26 April 2023
 - [x] Foundations of higher mathematics
 - [ ] Graph theory
 - [ ] Advanced logic: set theory and completeness
+
+## Problems worked on:
+
+- [x] 1
+- [x] 2
+- [x] 5
+- [x] 6
+- [ ] 18
+- [x] 19
+- [x] 31
