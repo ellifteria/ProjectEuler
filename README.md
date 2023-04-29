@@ -5,7 +5,7 @@ started: 26 April 2023
 
 ---
 
-![Project Euler](https://projecteuler.net/profile/x308.png)
+![Project Euler](https://projecteuler.net/profile/x308.png?)
 
 ## Languages used:
 
