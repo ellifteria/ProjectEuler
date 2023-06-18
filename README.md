@@ -25,8 +25,8 @@ started: 26 April 2023
 - [x] Methods of applied mathematics
 - [x] Modeling and computation in science and engineering
 - [x] Foundations of higher mathematics
-- [ ] Graph theory
-- [ ] Advanced logic: set theory and completeness
+- [x] Graph theory
+- [x] Advanced logic: set theory and completeness
 
 ## Problems worked on:
 
