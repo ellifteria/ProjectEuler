@@ -2,3 +2,7 @@
 
 .vscode
 
+recovery_key.txt
+
+*/cython/*.c
+
