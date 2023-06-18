@@ -1,20 +1,17 @@
 # My Project Euler Solutions
 
-Zoë Beres | 
-started: 26 April 2023
+Elli Beres | 
+started: 17 Jun 2023
 
 ---
 
 ### Solved: 6
 
-[![Project Euler](https://projecteuler.net/profile/x308.png?)](https://projecteuler.net/profile/x308.png?)
-
-(Image may not be updated.)
-
 ## Languages used:
 
 - Haskell
 - Julia
+- Cython
 
 ## Math courses taken so far:
 
