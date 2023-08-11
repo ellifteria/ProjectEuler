@@ -9,6 +9,7 @@ started: 17 Jun 2023
 
 ## Languages used:
 
+- Nim
 - Haskell
 - Julia
 - Cython
