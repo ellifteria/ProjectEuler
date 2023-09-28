@@ -1,6 +1,6 @@
 # My Project Euler Solutions
 
-Elli Beres | 
+Elli Beres |
 started: 17 Jun 2023
 
 ---
@@ -9,6 +9,7 @@ started: 17 Jun 2023
 
 ## Languages used:
 
+- Elixir
 - Nim
 - Haskell
 - Julia
